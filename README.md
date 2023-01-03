@@ -36,7 +36,7 @@ As a recent economics graduate,I am passionate about using my analytical skills 
 _____________________
 
 *   ✉️  You can contact me at [adambalayah@gmail.com](mailto:adambalayah@gmail.com)
-*   🧠  I'm learning OSCP, CASP+, CISSP
+*   🧠  I'm Studing for OSCP, CASP+, CISSP
 
 
  <br>
