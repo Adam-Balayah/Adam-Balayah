@@ -23,7 +23,7 @@ As a recent economics graduate,I am passionate about using my analytical skills 
 
 <b><a href="https://github.com/Adam-Balayah/Adam-Balayah/blob/main/6.%20Security%20Event%20Monitoring">6. Security Event Monitoring</a></b>
 
-<b><a href="https://github.com/Adam-Balayah/Adam-Balayah/blob/main/8.%20Set%20up%20a%20Honeypot%20with%20CanaryTokens.md">7. Set up a Honeypot with CanaryTokens/a></b>
+<b><a href="https://github.com/Adam-Balayah/Adam-Balayah/blob/main/8.%20Set%20up%20a%20Honeypot%20with%20CanaryTokens.md">7. Set up a Honeypot with CanaryTokens</a></b>
 
 
 
