@@ -11,19 +11,19 @@ As a recent economics graduate,I am passionate about using my analytical skills 
 ### Cybersecurity Portfolio
 ---------------------------
 
-<b><a href="https://github.com/Adam-Balayah/Adam-Balayah/blob/main/1.%20Vulnerabilities%20Scans%20using%20differen%20tools.md">1. Vulnerabilities Scans using differen tools</a></b>
+<b><a href="">TBA</a></b>
 
-<b><a href="https://github.com/Adam-Balayah/Adam-Balayah/blob/main/2.%20Log%20Monitoring%20and%20Review">2. Log Monitoring and Review</a></b>
+<b><a href="https://github.com/Adam-Balayah/Adam-Balayah/blob/main/2.%20Log%20Monitoring%20and%20Review">TBA</a></b>
 
-<b><a href="https://github.com/Adam-Balayah/Adam-Balayah/blob/main/3.%20Certificate%20Management">3. Certificate Management</a></b>
+<b><a href="https://github.com/Adam-Balayah/Adam-Balayah/blob/main/3.%20Certificate%20Management">TBA</a></b>
 
-<b><a href="https://github.com/Adam-Balayah/Adam-Balayah/blob/main/4.%20Network%20Traffic%20Analysis%20and%20Threat%20detection%20with%20Wireshark">4. Network Traffic Analysis and Threat detection with Wireshark </a></b>
+<b><a href="">TAB</a></b>
 
-<b><a href="https://github.com/Adam-Balayah/Adam-Balayah/blob/main/5.%20Intrusion%20Detection%20with%20Diffrent%20tools">5. Intrusion Detection with Diffrent tools </a></b>
+<b><a href="">TBA</a></b>
 
-<b><a href="https://github.com/Adam-Balayah/Adam-Balayah/blob/main/6.%20Security%20Event%20Monitoring">6. Security Event Monitoring</a></b>
+<b><a href="">TBA</a></b>
 
-<b><a href="https://github.com/Adam-Balayah/Adam-Balayah/blob/main/7.%20Set%20up%20a%20Honeypot%20with%20CanaryTokens.md">7. Set up a Honeypot with CanaryTokens</a></b>
+<b><a href="">TBA</a></b>
 
 
 
@@ -36,7 +36,7 @@ As a recent economics graduate,I am passionate about using my analytical skills 
 _____________________
 
 *   ✉️  You can contact me at [adambalayah@gmail.com](mailto:adambalayah@gmail.com)
-*   🧠  I'm studying for OSCP, CASP+, CISSP
+*   🧠  I'm studying for OSCP+, CISSP
 
 
  <br>
