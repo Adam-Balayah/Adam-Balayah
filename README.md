@@ -2,27 +2,6 @@ Hi, I'm name Adam !
 ====================================================================================================================================
 
 
-### IT Portfolio
----------------------------
-
-<b><a href="">TBA</a></b>
-
-<b><a href="https://github.com/Adam-Balayah/Adam-Balayah/blob/main/2.%20Log%20Monitoring%20and%20Review">TBA</a></b>
-
-<b><a href="https://github.com/Adam-Balayah/Adam-Balayah/blob/main/3.%20Certificate%20Management">TBA</a></b>
-
-<b><a href="">TAB</a></b>
-
-<b><a href="">TBA</a></b>
-
-<b><a href="">TBA</a></b>
-
-<b><a href="">TBA</a></b>
-
-
-
-_____________________
-
 *   ✉️  You can contact me at [adambalayah@gmail.com](mailto:adambalayah@gmail.com)
 
  <br>
